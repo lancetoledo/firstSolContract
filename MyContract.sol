@@ -6,6 +6,8 @@
 //Step 3: Add .gitignore file and add /artifacts/ (You will only see artifacts after your deploy)
 //Step 4: You can commit your changes on github
 
+// Set up MetaMask so we can communicate with the real block chain!
+
 pragma solidity >=0.7.0 <0.9.0;
 
 contract MyToken {
